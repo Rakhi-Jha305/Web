@@ -15,7 +15,7 @@ body {
 }
 
 .banner {
-  background: radial-gradient(circle at 75% 30%, #5d2e7a 0%, #a43a4e 35%, #251329 65%, #10161a 100%);
+  background: radial-gradient(circle at 75% 30%, #65a5ca 0%, #e6e0e1 35%, #8fdee9 65%, #5c88a5 100%);
   border-radius: 12px;
   padding: 40px;
   display: flex;
@@ -101,7 +101,7 @@ body {
 }
 
 .btn-dark {
-  background-color: #111827;
+  background-color: #d8dde9;
   color: #ffffff;
   text-decoration: none;
   font-size: 13px;
